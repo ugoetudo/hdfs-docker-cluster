@@ -1,0 +1,2 @@
+Good resource for a docker build out has config files
+https://github.com/bigdatafoundation/docker-hadoop/blob/master/README.md
