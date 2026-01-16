@@ -1,0 +1,1 @@
+mkdir hadoop_datanode1 hadoop_datanode2 hadoop_namenode
